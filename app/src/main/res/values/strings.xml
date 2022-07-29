@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mySlideShow</string>
+    <string name="app_title">Silde Show</string>
+    <string name="button_makeSildeShow">슬라이드 쇼 만들기</string>
+</resources>
